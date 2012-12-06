@@ -75,7 +75,7 @@ if ( $_POST ) {
 
         	<div class="alert alert-info">
         		Apps qui permet le partage des fiches de simulationCraft (<strong>.html</strong>) pour en parler ensemble sur le forum. <br>
-                A l'envoie si un fichier est déjà existant il est écrasé.
+                A l'envoi si un fichier est déjà existant il est écrasé.
         	</div>
 
         <?php if (isset($error)): ?>
